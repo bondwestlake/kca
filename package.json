@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "wrangler pages deploy dist --project-name ai-robot-maker-landing"
+    "deploy": "wrangler pages deploy dist --project-name landing"
   },
   "dependencies": {
     "react": "^18.3.1",
